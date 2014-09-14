@@ -1,10 +1,3 @@
-# Octobot Todo
+# Safari Extension
 
-### Design
-
-    [ ] 19px & 38px icons
-
-
-### 31.07
-    [X] set up listener script
-    [ ] connect listener to the rest and open popup with it
+    [ ] hook up the toolbar icon to a script - https://developer.apple.com/library/safari/documentation/tools/conceptual/safariextensionguide/AddingButtonstotheMainSafariToolbar/AddingButtonstotheMainSafariToolbar.html#//apple_ref/doc/uid/TP40009977-CH3-SW1

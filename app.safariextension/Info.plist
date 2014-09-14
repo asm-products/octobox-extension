@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Octobox</string>
+	<key>Builder Version</key>
+	<string>10538.46</string>
+	<key>CFBundleDisplayName</key>
+	<string>Octobot</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.octobox.octobot</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.1</string>
+	<key>CFBundleVersion</key>
+	<string>0.0.1</string>
+	<key>Chrome</key>
+	<dict>
+		<key>Global Page</key>
+		<string>global.html</string>
+		<key>Popovers</key>
+		<array>
+			<dict>
+				<key>Filename</key>
+				<string>global.html</string>
+				<key>Height</key>
+				<real>1000</real>
+				<key>Identifier</key>
+				<string>Testing</string>
+				<key>Width</key>
+				<real>500</real>
+			</dict>
+		</array>
+		<key>Toolbar Items</key>
+		<array>
+			<dict>
+				<key>Identifier</key>
+				<string>octobot.toolbaritem</string>
+				<key>Image</key>
+				<string>icon.png</string>
+				<key>Label</key>
+				<string>Octobot</string>
+				<key>Popover</key>
+				<string>Testing</string>
+				<key>Tool Tip</key>
+				<string>Octobot</string>
+			</dict>
+		</array>
+	</dict>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict/>
+	</dict>
+	<key>Description</key>
+	<string>Browser Extension for Octobox App</string>
+	<key>DeveloperIdentifier</key>
+	<string>82H5C5U8Y9</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>All</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>http://useoctobox.com/</string>
+</dict>
+</plist>
