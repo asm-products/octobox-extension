@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Octobot",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "A browser extension for Octobox App.",
+    "description": "The description of the application"
+  }
+}
